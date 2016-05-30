@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingProtoType", "StreamingProtoType\StreamingProtoType.csproj", "{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|ARM.Build.0 = Debug|ARM
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|x64.ActiveCfg = Debug|x64
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|x64.Build.0 = Debug|x64
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|x64.Deploy.0 = Debug|x64
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|x86.ActiveCfg = Debug|x86
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|x86.Build.0 = Debug|x86
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Debug|x86.Deploy.0 = Debug|x86
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|ARM.ActiveCfg = Release|ARM
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|ARM.Build.0 = Release|ARM
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|ARM.Deploy.0 = Release|ARM
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|x64.ActiveCfg = Release|x64
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|x64.Build.0 = Release|x64
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|x64.Deploy.0 = Release|x64
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|x86.ActiveCfg = Release|x86
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|x86.Build.0 = Release|x86
+		{AA16D7D3-BDFE-48B2-857A-ACEF32A0522D}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

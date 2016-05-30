@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="StreamingProtoType.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreamingProtoType"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' Content="Set Source" HorizontalAlignment="Left" Margin="414,580,0,0" VerticalAlignment="Top" Height="50" Width="110"                           />
+        <Button x:ConnectionId='2' Content="Play" HorizontalAlignment="Left" Margin="563,580,0,0" VerticalAlignment="Top" Height="50" Width="110"                      />
+        <Button x:ConnectionId='3' Content="Pause" HorizontalAlignment="Left" Margin="715,580,0,0" VerticalAlignment="Top" Height="50" Width="110"                       />
+        <Button x:ConnectionId='4' Content="Stop" HorizontalAlignment="Left" Margin="874,580,0,0" VerticalAlignment="Top" Height="50" Width="110"                      />
+        <MediaElement x:Name="mediaElement" Height="375" Margin="266,119,297,0" VerticalAlignment="Top" AudioCategory="BackgroundCapableMedia"/>
+        <Slider x:ConnectionId='5' x:Name="sliderProgress" HorizontalAlignment="Left" Margin="181,520,0,0" VerticalAlignment="Top" Width="803"                                           />
+        <Slider x:ConnectionId='6' x:Name="volumeSlider" HorizontalAlignment="Left" Margin="1125,570,0,0" VerticalAlignment="Top" Width="100" Minimum="0" Maximum="100" StepFrequency="1" Value="{Binding Volume, ElementName=mediaElement, Mode=TwoWay}"
+                 ToolTipService.ToolTip="{Binding Value, RelativeSource={RelativeSource Mode=Self}}"                                         />
+        <TextBlock HorizontalAlignment="Left" Margin="1026,581,0,0" TextWrapping="Wrap" Text="Volume" VerticalAlignment="Top" FontSize="22"/>
+
+        <TextBlock x:Name="lblBandwidth" HorizontalAlignment="Left" Margin="169,662,0,0" TextWrapping="Wrap" Text="Bandwidth" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:ConnectionId='7' x:Name="txtBandwidth" HorizontalAlignment="Left" Margin="308,713,0,0" TextWrapping="Wrap" Text="Current Bandwidth" VerticalAlignment="Top" Width="312"                                    />
+        <Button x:ConnectionId='8' x:Name="btnBandwidth" Content="Get Bandwidth" HorizontalAlignment="Left" Margin="157,690,0,0" VerticalAlignment="Top" Height="55" Width="133"                           />
+
+    </Grid>
+</Page>
+

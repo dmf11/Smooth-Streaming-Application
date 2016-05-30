@@ -1,0 +1,1 @@
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\StreamingProtoType.csproj;x64

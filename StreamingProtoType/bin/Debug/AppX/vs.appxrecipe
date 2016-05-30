@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAVID</Machine>
+    <WindowsUser>Glamdring</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A4DC789DDD507E3BA7EAADA7D8F31841F400509FD195D3A1A6AFF7C4C5C20981</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>01015aca-4626-474c-b4a2-c7525b72ac23_1.0.0.0_neutral__vkxqe5bdxvkqg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>01015aca-4626-474c-b4a2-c7525b72ac23_vkxqe5bdxvkqg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>01015aca-4626-474c-b4a2-c7525b72ac23</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Glamdring</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-09T23:59:48.198</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\StreamingProtoType.exe">
+      <PackagePath>StreamingProtoType.exe</PackagePath>
+      <Modified>2013-12-09T23:59:47.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\StreamingProtoType.pdb">
+      <PackagePath>StreamingProtoType.pdb</PackagePath>
+      <Modified>2013-12-09T23:59:47.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-09T23:26:01.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-12-09T23:59:46.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-09T23:59:48.072</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

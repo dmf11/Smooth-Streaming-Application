@@ -1,0 +1,50 @@
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\x64\Debug\StreamingProtoType.exe
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\x64\Debug\StreamingProtoType.pdb
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\x64\Debug\resources.pri
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\x64\Debug\AppxManifest.xml
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\x64\Debug\StreamingProtoType.build.appxrecipe
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\bin\x64\Debug\Microsoft.Media.AdaptiveStreaming.winmd
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\App.g.i.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\App.g.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\Common\StandardStyles.g.i.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\Common\StandardStyles.g.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\MainPage.g.i.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\MainPage.g.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\XamlTypeInfo.g.cs
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\App.xaml
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\Common\StandardStyles.xaml
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\MainPage.xaml
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\StreamingProtoType.exe
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\StreamingProtoType.pdb
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\StreamingProtoType.csproj.GenerateResource.Cache
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\priconfig.xml
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\layout.resfiles
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\resources.resfiles
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\pri.resfiles
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\LanguageQualifiers.txt
+c:\users\glamdring\documents\visual studio 2012\Projects\StreamingProtoType\StreamingProtoType\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\App.g.i.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\App.g.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\Common\StandardStyles.g.i.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\Common\StandardStyles.g.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\MainPage.g.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\App.xaml
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\Common\StandardStyles.xaml
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\MainPage.xaml
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\StreamingProtoType.exe
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\StreamingProtoType.pdb
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\bin\x64\Debug\StreamingProtoType.exe
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\bin\x64\Debug\StreamingProtoType.pdb
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\bin\x64\Debug\resources.pri
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\bin\x64\Debug\AppxManifest.xml
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\bin\x64\Debug\StreamingProtoType.build.appxrecipe
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\bin\x64\Debug\Microsoft.Media.AdaptiveStreaming.winmd
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\StreamingProtoType.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\priconfig.xml
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\layout.resfiles
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\resources.resfiles
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\pri.resfiles
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\LanguageQualifiers.txt
+C:\Users\David\Desktop\StreamingProtoType\StreamingProtoType\obj\x64\Debug\ProjectArchitectures.txt

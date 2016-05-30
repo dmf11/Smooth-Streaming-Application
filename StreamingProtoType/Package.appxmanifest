@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="01015aca-4626-474c-b4a2-c7525b72ac23" Publisher="CN=Glamdring" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>StreamingProtoType</DisplayName>
+    <PublisherDisplayName>Glamdring</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="StreamingProtoType.App">
+      <VisualElements DisplayName="StreamingProtoType" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="StreamingProtoType" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="videosLibrary" />
+    <Capability Name="sharedUserCertificates" />
+    <Capability Name="removableStorage" />
+    <Capability Name="musicLibrary" />
+    <Capability Name="enterpriseAuthentication" />
+    <Capability Name="picturesLibrary" />
+    <Capability Name="internetClient" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="privateNetworkClientServer" />
+    <DeviceCapability Name="location" />
+    <DeviceCapability Name="microphone" />
+    <DeviceCapability Name="proximity" />
+  </Capabilities>
+</Package>

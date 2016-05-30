@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="StreamingProtoType.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreamingProtoType"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Set Source" HorizontalAlignment="Left" Margin="348,449,0,0" VerticalAlignment="Top" Height="50" Width="110" Click="BtnSetSource_Click"/>
+        <Button Content="Play" HorizontalAlignment="Left" Margin="497,449,0,0" VerticalAlignment="Top" Height="50" Width="110" Click="btnPlay_Click"/>
+        <Button Content="Pause" HorizontalAlignment="Left" Margin="649,449,0,0" VerticalAlignment="Top" Height="50" Width="110" Click="btnPause_Click"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="808,449,0,0" VerticalAlignment="Top" Height="50" Width="110" Click="btnStop_Click"/>
+        <MediaElement x:Name="mediaElement" Height="356" Width="924" VerticalAlignment="Top" AudioCategory="BackgroundCapableMedia"/>
+        <TextBox x:Name="txtBandwidth" ScrollViewer.VerticalScrollBarVisibility="Auto" AcceptsReturn="True" HorizontalAlignment="Left" Margin="241,509,0,-664636" TextWrapping="Wrap" VerticalAlignment="Top" Width="963" Height="999999999"/>
+
+    </Grid>
+</Page>
